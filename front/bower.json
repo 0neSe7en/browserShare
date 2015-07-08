@@ -1,0 +1,20 @@
+{
+  "name": "browserShare",
+  "version": "0.0.0",
+  "homepage": "https://github.com/0neSe7en/browserShare",
+  "authors": [
+    "0neSe7en <siyuan.se7en@gmail.com>"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
